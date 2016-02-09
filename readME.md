@@ -1,5 +1,4 @@
 add graphics for the last period of time
-
 for the last hours
 
 add graphic for charts that are similar to stock ones
@@ -21,5 +20,5 @@ Add a status menu, which should include the temperature of the cpu, the login? :
 
 
 
-* Done *
+*Done*
 Change the modify button color
