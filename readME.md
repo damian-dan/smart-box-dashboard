@@ -8,7 +8,7 @@
 - [ ] Add new module for the Dashboard which should include more information about the product
 - [ ] Add GitHub details
 - [ ] Add a status menu, which should include the temperature of the cpu, the login? :)
-
+- [ ] Add D3.js
 
 
 
